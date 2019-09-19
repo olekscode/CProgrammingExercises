@@ -9,11 +9,11 @@ Don't forget to add the newline character \n in the end of your text.
 2. Open the Terminal in the same directory where this file is located
 and compile your program by executing the following line:
 
-    gcc ex1.1.hello-world.c -o ex1.1.hello-world
+    gcc ex1-hello-world.c -o ex1-hello-world
 
 3. Run your program by entering its name in the Terminal preceded with ./:
 
-    ./ex1.1.hello-world
+    ./ex1-hello-world
 
 Did you see your message?
 */
