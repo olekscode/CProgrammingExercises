@@ -2,7 +2,9 @@
 Task
 ===========
 
-Swap the values of two variables without creating a third one.
+1. Swap the values of two variables a and b using an extra variable c.
+
+2. Now swap the values of a and b without using any extra variables.
 
 Example input
 =============
