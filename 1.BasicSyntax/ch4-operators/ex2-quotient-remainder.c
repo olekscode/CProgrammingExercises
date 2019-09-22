@@ -5,17 +5,17 @@ Task
 Your task is to divide the given two numbers and print the quotient
 and remainder of this division.
 
-Example input 1
-===============
+Example input
+=============
 
-Numerator: 2500
-Denominator: 235
+  Numerator: 2500
+  Denominator: 235
 
-Example output 1
-================
+Example output
+==============
 
-Quotient: 10
-Remainder: 150
+  Quotient: 10
+  Remainder: 150
 */
 
 #include <stdio.h>
