@@ -14,7 +14,7 @@ Read the error message displayed by the compiler.
 
 [Reminder]
 Code can be compiled by executing the following line in the Terminal:
-  gcc ex1-compilation-error.c -o ex1-compilation-error
+  gcc ex1-compilation-errors.c -o ex1-compilation-errors
 
 2. Fix the mistake and compile the code again to make sure that everything
 works as expected.

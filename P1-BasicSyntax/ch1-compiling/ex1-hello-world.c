@@ -18,8 +18,6 @@ and compile your program by executing the following line:
 Did you see your message?
 */
 
-
-
 int main() {
   printf("Add your text here\n");
   return 0;

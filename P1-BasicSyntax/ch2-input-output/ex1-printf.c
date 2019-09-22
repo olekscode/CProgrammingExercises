@@ -29,6 +29,31 @@ The most important ones that you need to know are:
 
 and just for fun, you can try the \a character - it will make a "bip" sound :)
 
+Print your name and age in the following format using only one "printf"
+statement:
+
+Name: Dennis Ritchie
+Age:  70
+
+(note: there is a tabulation after "Name:" and "Age:")
+
+3. printf allows us to print strings that accept one or more parameters.
+This is a very important feature because it allows us to print the result
+of a computation. For example:
+
+  printf("Two plus two equals: %d\n", 2 + 2);
+
+or a value held by a variable:
+
+  char* name = "Oleksandr";
+  printf("My name is %s\n", name);
+
+You can add as many parameters as you want:
+
+  int a = 3;
+  int b = 5;
+  printf("%d + %d = %d\n", a, b, a + b);
+
 TODO: Finish this
 */
 
