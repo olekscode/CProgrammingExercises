@@ -31,8 +31,5 @@ int main() {
 
   // Write your code here
 
-  printf("Quotient: %d\n", numerator / denominator);
-  printf("Remainder: %d\n", numerator % denominator);
-
   return 0;
 }
